@@ -6,19 +6,27 @@
 </p>
 
 <p align="center">
-  <a href="https://landing.tribewarez.com/" target="_blank">
-    <img src="https://img.shields.io/badge/TribeWarez-221666?style=for-the-badge&logo=web3&logoColor=white" alt="TribeWarez">
-  </a>
-  <a href="https://x.com/tribewarez" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
-  </a>
-  <a href="https://youtube.com/@odelyzid" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  <a href="https://mystic.tribewarez.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🎲_PLAY_MYSTIC_NUMBERS_NOW-228814?style=for-the-badge&logo=roll20&logoColor=A221CC&labelColor=000000" alt="Play Mystic Numbers">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=800&color=FF00AA&center=true&vCenter=true&width=520&lines=Web3+Match+Games+%26+DeFi;Psychedelic+Blockchain+Experiences;From+90s+Retro+to+Web3;Code+is+my+drug+of+choice" alt="Typing SVG" />
+  <a href="https://landing.tribewarez.com/" target="_blank" >
+    <img src="https://img.shields.io/badge/TribeWarez-221666?style=for-the-badge&logo=trimble&logoColor=neongreen" alt="TribeWarez">
+  </a> 
+  
+  <a href="https://x.com/tribewarez" target="_blank" >
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+
+  <a href="https://youtube.com/@odelyzid" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  <p></p>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=800&color=A221CC&center=true&vCenter=true&width=520&lines=Web3+Match+Games+%26+DeFi;Psychedelic+Blockchain+Experiences;From+90s+Retro+to+Web3;Code+is+my+drug+of+choice" alt="Typing SVG" />
 </p>
 
 <hr>
