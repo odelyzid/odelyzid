@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://landing.tribewarez.com/" target="_blank">
-    <img src="https://img.shields.io/badge/TribeWarez-FF00AA?style=for-the-badge&logo=web3&logoColor=white" alt="TribeWarez">
+    <img src="https://img.shields.io/badge/TribeWarez-221666?style=for-the-badge&logo=web3&logoColor=white" alt="TribeWarez">
   </a>
   <a href="https://x.com/tribewarez" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
@@ -52,9 +52,9 @@
 <h2 align="center">📊 GitHub Stats 2026</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=odelysida&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=odelysida&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=odelysida&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=odelyzid&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=odelyzid&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=odelyzid&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
 
 <hr>
