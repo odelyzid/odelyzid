@@ -60,8 +60,8 @@
 <h2 align="center">📊 GitHub Stats 2026</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=odelyzid&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=odelyzid&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=odelyzid&theme=tokyonight"" alt="Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=odelyzid&theme=tokyonight" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=odelyzid&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
 
