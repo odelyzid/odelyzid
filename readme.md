@@ -128,7 +128,7 @@
 </p>
 
 <p align="center"><i>…plus Assembly, Irrlicht, retro hardware, blockchain tooling, and pure chaos.</i></p>
-
+<p align="center"><a href="https://donation.streamiverse.io/odelyzid">Leave a Cryptographic form of Support here</a></p>
 <hr>
 
 <p align="center">
