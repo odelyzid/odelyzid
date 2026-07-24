@@ -32,7 +32,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=800&color=A221CC&center=true&vCenter=true&width=520&lines=Web3+Match+Games+%26+DeFi;Psychedelic+Blockchain+Experiences;From+90s+Retro+to+Web3;Code+is+my+drug+of+choice" alt="Typing SVG" />
 </p>
-<p align="center"><a href="https://donation.streamiverse.io/odelyzid">☕ Leave a Cryptographic form of Support here</a></p>
+<p align="center"><a href="https://donation.streamiverse.io/odelyzid" style="text-decoration: none; color: #00ff00;">☕ Leave a Cryptographic form of Support here</a></p>
 <hr>
 
 ## 🎮 TRIBE WAREZ GRID
