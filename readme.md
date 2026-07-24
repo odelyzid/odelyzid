@@ -32,7 +32,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=800&color=A221CC&center=true&vCenter=true&width=520&lines=Web3+Match+Games+%26+DeFi;Psychedelic+Blockchain+Experiences;From+90s+Retro+to+Web3;Code+is+my+drug+of+choice" alt="Typing SVG" />
 </p>
-<iframe frameborder="0" src="https://itch.io/embed/4812313?linkback=true&amp;bg_color=000000&amp;fg_color=00ede9&amp;link_color=5bfae7&amp;border_color=0b3440" width="552" height="167"><a href="https://odelyzid.itch.io/angels95">Angels95 by ODelyZid</a></iframe>
+<p align="center"><a href="https://donation.streamiverse.io/odelyzid">☕ Leave a Cryptographic form of Support here</a></p>
 <hr>
 
 ## 🎮 TRIBE WAREZ GRID
@@ -128,7 +128,6 @@
 </p>
 
 <p align="center"><i>…plus Assembly, Irrlicht, retro hardware, blockchain tooling, and pure chaos.</i></p>
-<p align="center"><a href="https://donation.streamiverse.io/odelyzid">Leave a Cryptographic form of Support here</a></p>
 <hr>
 
 <p align="center">
