@@ -4,7 +4,6 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=odelyzid&theme=tokyonight&animation=glow" alt="Stats" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=odelyzid&theme=tokyonight&animation=glow" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=odelyzid&theme=tokyonight&hide_border=true&animation=glow" alt="Streak" />
 </div>
 
 <hr>
@@ -35,16 +34,4 @@
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000&animation=glow" alt="Docker"></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000&animation=glow" alt="Git"></a>
   <a href="https://www.kernel.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=000000&animation=glow" alt="Linux"></a>
-</p>
-
-<p align="center"><i>…plus Assembly, Irrlicht, retro hardware, blockchain tooling, and pure chaos.</i></p>
-<hr>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=FF00AA&center=true&vCenter=true&width=435&lines=SMH+ANIMATED+GRID;TRIBE+WAREZ+4+LIFE;COFFEE+%2B+CODE+%3D+MAGIC;ENTER+THE+TERMINAL" alt="SMH Typing" />
-</p>
-
-<p align="center">
-  <i>Let's build the weirdest, most addictive Web3 gaming experiences together.<br>
-  Coffee's brewing. Come say hi on <a href="https://x.com/tribewarez">X</a> or drop into the <a href="https://terminal.tribewarez.com/">Terminal</a> 🔥</i>
 </p>
