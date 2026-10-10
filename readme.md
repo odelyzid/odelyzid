@@ -22,7 +22,7 @@ Low-level systems · Privacy tooling · Music
 <a href="https://landing.tribewarez.com/"><img width="180" height="90" alt="tribewarez_enter_web_portal_animatied1_badge" src="https://github.com/user-attachments/assets/0e259098-0060-4ba3-a35e-b20307528350" /></a>
 <a href="https://angels95.tribewarez.com/"><img width="180" height="90" alt="angels" src="https://github.com/user-attachments/assets/f0d5ebd3-d449-402b-a248-c032ca519119" /></a>
 <a href="https://music.tribewarez.com/"><img width="180" height="90" alt="triptribe" src="https://github.com/user-attachments/assets/967475c7-02ab-4e44-9244-1f7b5be9418a" /></a>
-<a href="https://pot-o-validator.tribewarez.com/"><img width="180" height="90" alt="pot-o-validator" src="https://github.com/user-attachments/assets/edcf40e4-d9c8-4c1c-8ad1-f859f3971226" /></a>
+<a href="https://pot-o-validator.tribewarez.com/"><img width="180" height="90"  alt="pot-o-validator-anim" src="https://github.com/user-attachments/assets/27e34f58-64a4-45d1-8886-1827afa4eb5e" /></a>
 </div>
 <br>
 
